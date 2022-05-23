@@ -32,7 +32,7 @@ Formato: 16.00 x 23.00 cm. |
 Diagramei o miolo e criei a capa. | [![Linkedin Badge](https://img.shields.io/badge/-Emanuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gimaranes/)](https://www.linkedin.com/in/gimaranes/)
 A autora escreveu um livro sobre a sua história de vida e deu, como presente, para a sua familia. | [![Instagram Usakimodoki Badge](https://img.shields.io/badge/-3dguima-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/usakimodoki/)](https://www.instagram.com/3dguima/)
 Escrito por Claudina Maria (Fontova) Argilés Gisbert | [![Gmail Badge](https://img.shields.io/badge/-Emanuel-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3dguima@gmail.com@gmail.com)](mailto:3dguima@gmail.com)
-Impressão: Avalom Digital - Gráfica de Livros | [![Twitter Badge](https://img.shields.io/badge/-_3DGuima-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/usakimodoki target=blank)](https://twitter.com/_3DGuima)
+Impressão: Avalom Digital - Gráfica de Livros | [![Twitter Badge](https://img.shields.io/badge/-_3DGuima-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_3dguima&target=blank)](https://twitter.com/_3DGuima)
 
 ----
 
