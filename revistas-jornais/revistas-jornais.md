@@ -8,7 +8,7 @@
 ![](/revistas-jornais/003-revista-cientifica-odontologia-innovations-implant-journal-volume-6-numero-edicao-1-2011.jpg)  | ![](/revistas-jornais/002-jornal-voce-aqui-numero-edicao-8-2010.jpg) 
 Revista Científica sobre Odontologia - 2011 | Edição nº08 - 2010
 Diagramei esta edição em parceria com Renato Valderramas | Criei, diagramei e gerenciei o processo de impressão desta edição do jornal.
-Nome da edição: "Biomatetials an Esthetics" | Criei o "blog' e coordenei o processo de hospedagem e publicação.
+Nome da edição: "Biomaterials an Esthetics" | Criei o "blog' e coordenei o processo de hospedagem e publicação.
 
 ----
 
