@@ -36,9 +36,3 @@ Impressão: Avalom Digital - Gráfica de Livros | [![Twitter Badge](https://img.
 
 ----
 
-
-
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=3dguima.3dguima)
