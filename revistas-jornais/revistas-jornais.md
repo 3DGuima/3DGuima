@@ -3,16 +3,12 @@
 
 ----
 
-**Innovations Implant Journal - Jornal Científico sobre Odontologia - 2011** | **Jornal Você Aqui - Edição nº08 - 2010**
+**Innovations Implant Journal** | **Jornal Você Aqui - Edição nº08 - 2010**
 :---------------------------:|:------------------------------:
 ![](/revistas-jornais/003-revista-cientifica-odontologia-innovations-implant-journal-volume-6-numero-edicao-1-2011.jpg)  | ![](/revistas-jornais/002-jornal-voce-aqui-numero-edicao-8-2010.jpg) 
-Diagramei o miolo. | Diagramei o miolo.
-Editora: EDUSC | Editora: EDUFBA - Co-edição: EDUSC
-Autora: Milena Fermandes Maranho | Autor: Paulo César Aves (org.)
-ISBN: 8574603732 - ISBN13: 9788574603735 | ISBN13: 9788523206673
-1 Edicão. - Número de Páginas: 362 | 1 Edicão. - Número de Páginas: 350
-Acabamento: BROCHURA | Acabamento: BROCHURA
-Formato: 16.00 x 23.00 cm. | Formato: 16.00 x 23.00 cm.
+NOme da edição: Biomatetials an Esthetics" | Edição nº08 - 2010
+Revista Científica sobre Odontologia - 2011 | Criei, diagramei e gerenciei o processo de impressão desta edição do jornal.
+Diagramei esta edição em parceria com Renato Valderramas | Criei o "blog' e coordenei o processo de hospedagem e publicação.
 
 ----
 
