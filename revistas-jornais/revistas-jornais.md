@@ -12,9 +12,9 @@ Nome da edição: "Biomaterials an Esthetics" | Criei o "blog' e coordenei o pro
 
 ----
 
-**Sonhar a História** | **Albania**
+**Jornal Você Aqui - Edição nº07 - 2010** | **Yupii Brinquedos - 2005**
 :--------------------:|:-----------:
-![](/livros-capas/003-livro-sonhar-a-historia-isbn-9788574603681-edusc-2011.jpg) | ![](/livros-capas/004-livro-presente-consul-albania-2012.jpg) |
+![](/revistas-jornais/001-jornal-voce-aqui-numero-edicao-7-2010.jpg) | ![](/revistas-jornais/004-anuncio-jornal-da-cidade-revista-atencao-yupii-brinquedos-2005.jpg) |
 Diagramei o miolo. - Editora: EDUSC | Diagramei o miolo e criei a capa.
 Autora: Maria V. Jordan Arroyo ISBN13:9788574603681 | Livro presente encomendado pelo Escritório Consular da República da Albânia em Bauru para a visita do Consul da Albania ao Brasil.
 1 Edicão. - Número de Páginas: 256 | Impressão: Avalom Digital - Gráfica de Livros
