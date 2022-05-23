@@ -4,7 +4,7 @@ Olá!</br>
 Meu nome é Emanuel Antonio Guimarães Martins.</br>
 Aqui, você poderá ver meu currículo e portfolio.</br>
 E mais alguns estudos, trabalhos e informações bacanas sobre mim.</br>
-Seja bem vindo!<img width="150" height="150" src="https://github.com/3DGuima/3DGuima/blob/main/images/eu-icon-256x256-2020.png">
+Seja bem vindo!
 <!--<img align="right" width="150" height="150" src="https://github.com/3DGuima/3DGuima/blob/main/images/eu-icon-256x256-2020.png">-->
 </p>
 
