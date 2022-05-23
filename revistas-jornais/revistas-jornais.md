@@ -15,12 +15,11 @@ Nome da edição: "Biomaterials an Esthetics" | Criei o "blog' e coordenei o pro
 **Jornal Você Aqui - Edição nº07 - 2010** | **Yupii Brinquedos - 2005**
 :--------------------:|:-----------:
 ![](/revistas-jornais/001-jornal-voce-aqui-numero-edicao-7-2010.jpg) | ![](/revistas-jornais/004-anuncio-jornal-da-cidade-revista-atencao-yupii-brinquedos-2005.jpg) |
-Diagramei o miolo. - Editora: EDUSC | Diagramei o miolo e criei a capa.
-Autora: Maria V. Jordan Arroyo ISBN13:9788574603681 | Livro presente encomendado pelo Escritório Consular da República da Albânia em Bauru para a visita do Consul da Albania ao Brasil.
-1 Edicão. - Número de Páginas: 256 | Impressão: Avalom Digital - Gráfica de Livros
-Acabamento: BROCHURA | 
-Formato: 16.00 x 23.00 cm. |
- 
+Edição nº07 - 2010 | Anúncios para jornal e revista - Natal 2005
+Criei, diagramei e gerenciei o processo de impressão desta edição do jornal. | Criei os anúncios da campanha.
+Criei o "blog' e coordenei o processo de hospedagem e publicação. | Anúncios criados para a campanha de Natal de 2005 da Loja Yupii Brinquedos, que foram publicados na Revista Atenção e no Jornal da Cidade; ambos de Bauru.
+
+----
 
 **Minha Vida na Fé** | **Contato** 
 :---------------------------:|:---------------------------:
