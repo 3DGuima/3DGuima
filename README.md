@@ -14,7 +14,7 @@ Seja bem vindo!
 # Portfolio
 | [**Livros e Capas**]() | [**Revistas e Jornais**]() | [**Impressos Promocionais**]() |
 | -------------- | ------------------ | ---------------------- |
-| [**Livros e Capas**]() | [**Revistas e Jornais**]() | [**Impressos Promocionais**]() |
+| [**Trabalhos com Rádio**]() | [**Trabalhos com Vídeo**]() | **Projetos Variados** |
 
 <details>
 <summary>Clique e veja as categorias:</summary>
@@ -36,8 +36,6 @@ ImageGalleryActivity           |  FullScreenImageGallery
 :-------------------------:|:-------------------------:
 ![](https://cloud.githubusercontent.com/assets/4307137/10105283/251b6868-63ae-11e5-9918-b789d9d682ec.png)  |  ![](https://cloud.githubusercontent.com/assets/4307137/10105290/2a183f3a-63ae-11e5-9380-50d9f6d8afd6.png)  |
 ImageGalleryActivity           |  teste de texto escrevendo qualquer coisa |  FullScreenImageGallery
-
------
 
 
 ImageGalleryActivity           |  FullScreenImageGallery
