@@ -5,7 +5,7 @@
 
 **Innovations Implant Journal - Jornal Científico sobre Odontologia - 2011** | **Jornal Você Aqui - Edição nº08 - 2010**
 :---------------------------:|:------------------------------:
-![](/revistas-jornais/003-revista-cientifica-odontologia-innovations-implant-journal-volume-6-numero-edicao-1-2011.jpg)  |
+![](/revistas-jornais/003-revista-cientifica-odontologia-innovations-implant-journal-volume-6-numero-edicao-1-2011.jpg)  | ![](/revistas-jornais/002-jornal-voce-aqui-numero-edicao-8-2010.jpg) 
 Diagramei o miolo. | Diagramei o miolo.
 Editora: EDUSC | Editora: EDUFBA - Co-edição: EDUSC
 Autora: Milena Fermandes Maranho | Autor: Paulo César Aves (org.)
