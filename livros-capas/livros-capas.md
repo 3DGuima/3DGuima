@@ -20,7 +20,7 @@ Formato: 16.00 x 23.00 cm. | Formato: 16.00 x 23.00 cm.
 :--------------------:|:-----------:
 ![](/livros-capas/003-livro-sonhar-a-historia-isbn-9788574603681-edusc-2011.jpg) | ![](/livros-capas/004-livro-presente-consul-albania-2012.jpg) |
 Diagramei o miolo. - Editora: EDUSC | Diagramei o miolo e criei a capa.
-Autor: Maria V. Jordan Arroyo ISBN13:9788574603681 | Livro presente encomendado pelo Escritório Consular da República da Albânia em Bauru para a visita do Consul da Albania ao Brasil.
+Autora: Maria V. Jordan Arroyo ISBN13:9788574603681 | Livro presente encomendado pelo Escritório Consular da República da Albânia em Bauru para a visita do Consul da Albania ao Brasil.
 1 Edicão. - Número de Páginas: 256 | Impressão: Avalom Digital - Gráfica de Livros
 Acabamento: BROCHURA | 
 Formato: 16.00 x 23.00 cm. |
