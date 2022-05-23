@@ -1,6 +1,6 @@
 # Emanuel (Guima)
 <p>
-<img align="left" width="150" height="150" src="https://github.com/3DGuima/3DGuima/blob/main/images/eu-icon-256x256-2020.png">
+<img align="right" width="150" height="150" src="https://github.com/3DGuima/3DGuima/blob/main/images/eu-icon-256x256-2020.png">
 
 Olá!</br>
 Meu nome é Emanuel Antonio Guimarães Martins.</br>
