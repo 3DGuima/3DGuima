@@ -6,9 +6,9 @@
 **Innovations Implant Journal** | **Jornal Você Aqui - Edição nº08 - 2010**
 :---------------------------:|:------------------------------:
 ![](/revistas-jornais/003-revista-cientifica-odontologia-innovations-implant-journal-volume-6-numero-edicao-1-2011.jpg)  | ![](/revistas-jornais/002-jornal-voce-aqui-numero-edicao-8-2010.jpg) 
-NOme da edição: Biomatetials an Esthetics" | Edição nº08 - 2010
-Revista Científica sobre Odontologia - 2011 | Criei, diagramei e gerenciei o processo de impressão desta edição do jornal.
-Diagramei esta edição em parceria com Renato Valderramas | Criei o "blog' e coordenei o processo de hospedagem e publicação.
+Revista Científica sobre Odontologia - 2011 | Edição nº08 - 2010
+Diagramei esta edição em parceria com Renato Valderramas | Criei, diagramei e gerenciei o processo de impressão desta edição do jornal.
+Nome da edição: "Biomatetials an Esthetics" | Criei o "blog' e coordenei o processo de hospedagem e publicação.
 
 ----
 
