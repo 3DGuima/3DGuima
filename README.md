@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # :brazil: Emanuel (Guima) :brazil:
-=======
-# :brazil:Emanuel (Guima):brazil:
->>>>>>> 32293f47bc9857ba9df36f2aa13f7e13feb7f2b1
 <p>
 Olá!</br>
 Meu nome é Emanuel.</br>
