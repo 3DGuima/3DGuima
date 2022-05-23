@@ -1,11 +1,11 @@
-# Portfolio - Livros e Capas
-## LIVROS QUE DIAGRAMEI E/OU CRIEI A CAPA
+# Portfolio - Revistas e Jornais
+## REVISTAS E JORNAIS QUE DIAGRAMEI E/OU CRIEI O ANÚNCIO E/OU FIZ A CAPA
 
 ----
 
-**A Opulência Relativisada** | **Cultura Múltiplas Leituras**
+**Innovations Implant Journal - Jornal Científico sobre Odontologia - 2011** | **Jornal Você Aqui - Edição nº08 - 2010**
 :---------------------------:|:------------------------------:
-![](/livros-capas/001-livro-a-opulencia-relativisada-isbn-9788574603735-edusc-2010.jpg)  |  ![](/livros-capas/002-cultura-multiplas-leituras-isbn-9788523206673-edusc-2011.jpg)  |
+![](/revistas-jornais/003-revista-cientifica-odontologia-innovations-implant-journal-volume-6-numero-edicao-1-2011.jpg)  |
 Diagramei o miolo. | Diagramei o miolo.
 Editora: EDUSC | Editora: EDUFBA - Co-edição: EDUSC
 Autora: Milena Fermandes Maranho | Autor: Paulo César Aves (org.)
