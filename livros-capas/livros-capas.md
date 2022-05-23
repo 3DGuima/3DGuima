@@ -25,6 +25,7 @@ Autora: Maria V. Jordan Arroyo ISBN13:9788574603681 | Livro presente encomendado
 Acabamento: BROCHURA | 
 Formato: 16.00 x 23.00 cm. |
  
+----
 
 **Minha Vida na Fé** | **Contato** 
 :---------------------------:|:---------------------------:
