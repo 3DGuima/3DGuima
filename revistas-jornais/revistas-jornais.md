@@ -1,5 +1,5 @@
-# Portfolio - Revistas e Jornais
-## REVISTAS E JORNAIS QUE DIAGRAMEI E/OU CRIEI O ANÚNCIO E/OU FIZ A CAPA
+# <ins>Portfolio - Revistas e Jornais</ins>
+## REVISTAS E JORNAIS QUE DIAGRAMEI<br>E/OU CRIEI O ANÚNCIO E/OU FIZ A CAPA
 
 ----
 
