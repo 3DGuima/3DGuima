@@ -9,12 +9,6 @@
 
 ----
 
-| [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | **Impressos Promocionais** |
-| -------------- | ------------------ | ---------------------- |
-| [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
-
-----
-
 **Loja de Brinquedos Odoteka - Campanha 2006** | **Yupii Brinquedos - Natal 2005**
 :------------------------------------:|:------------------------------------:
 ![](/impressos-promocionais/001-impresso-promocional-loja-brinquedos-odoteka-2006.jpg)  | ![](/impressos-promocionais/002-impresso-promocional-campanha-natal-yupii-brinquedos-2005.jpg) |
