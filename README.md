@@ -1,11 +1,11 @@
 # :construction: EM CONSTRUÇÃO :construction_worker_man:
 # :brazil: Emanuel (Guima) :brazil:
 <p>
-Olá!</br>
+<font size="5">Olá!</br>
 Meu nome é Emanuel.</br>
 Aqui, você poderá ver meu currículo e portfolio.</br>
 E mais alguns estudos, trabalhos e informações bacanas sobre mim.</br>
-Seja bem vindo!
+Seja bem vindo!</font>
 
 <!--START_SECTION:badges-->
 
