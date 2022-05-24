@@ -1,3 +1,5 @@
+<img align="left" width="100" height="100" src="https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png">
+
 # <ins>Portfolio - Revistas e Jornais</ins>
 ## REVISTAS E JORNAIS QUE DIAGRAMEI<br>E/OU CRIEI O ANÚNCIO E/OU FIZ A CAPA
 
