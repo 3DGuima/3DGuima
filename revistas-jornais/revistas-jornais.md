@@ -3,9 +3,9 @@
 
 ----
 
-| [**Livros e Capas**](/livros-capas/livros-capas.md) | **Revistas e Jornais** | [**Impressos Promocionais**]() |
+| [**Livros e Capas**](/livros-capas/livros-capas.md) | **Revistas e Jornais** | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) |
 | -------------- | ------------------ | ---------------------- |
-| [**Trabalhos com Rádio**]() | [**Trabalhos com Vídeo**]() | **Projetos Variados** |
+| [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
 
 ----
 
