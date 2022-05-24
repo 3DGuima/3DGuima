@@ -3,6 +3,12 @@
 
 ----
 
+| **Livros e Capas** | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**]() |
+| -------------- | ------------------ | ---------------------- |
+| [**Trabalhos com Rádio**]() | [**Trabalhos com Vídeo**]() | **Projetos Variados** |
+
+----
+
 **A Opulência Relativisada** | **Cultura Múltiplas Leituras**
 :---------------------------:|:------------------------------:
 ![](/livros-capas/001-livro-a-opulencia-relativisada-isbn-9788574603735-edusc-2010.jpg)  |  ![](/livros-capas/002-cultura-multiplas-leituras-isbn-9788523206673-edusc-2011.jpg)  |
