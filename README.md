@@ -22,6 +22,6 @@ Seja bem vindo!
 ----
 
 # Portfolio
-| [**Livros e Capas**](/livros-capas/livros-capas.md)) | [**Revistas e Jornais**]() | [**Impressos Promocionais**]() |
+| [**Livros e Capa**](/livros-capas/livros-capas.md)) | [**Revistas e Jornais**]() | [**Impressos Promocionais**]() |
 | -------------- | ------------------ | ---------------------- |
 | [**Trabalhos com Rádio**]() | [**Trabalhos com Vídeo**]() | **Projetos Variados** |
