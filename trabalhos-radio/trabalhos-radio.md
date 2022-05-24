@@ -9,6 +9,13 @@
 
 ----
 
+<div>
+<video width="320" height="240" controls>
+  <source src="/trabalhos-radio/01-yupii-natal-spot-radio-2005.mp4" type="video/mp4">
+</video>
+</div>
+
+
 **Loja de Brinquedos Odoteka - Campanha 2006** | **Yupii Brinquedos - Natal 2005**
 :------------------------------------:|:------------------------------------:
 ![](/impressos-promocionais/001-impresso-promocional-loja-brinquedos-odoteka-2006.jpg)  | ![](/impressos-promocionais/002-impresso-promocional-campanha-natal-yupii-brinquedos-2005.jpg) |
@@ -30,7 +37,3 @@ Campanha de Dia das Crianças em 2004. | Campanha de Dia das Crianças em 2002.
 Criei, diagramei e gerenciei o processo de impressão e distribuição do impresso promocional da campanha da loja. | Criei, diagramei e gerenciei o processo de impressão e distribuição do impresso promocional da campanha da loja.
 
 ----
-
-<video width="320" height="240" controls>
-  <source src="/trabalhos-radio/01-yupii-natal-spot-radio-2005.mp4" type="video/mp4">
-</video>
