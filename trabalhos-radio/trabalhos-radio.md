@@ -37,4 +37,6 @@ Criei, diagramei e gerenciei o processo de impressão e distribuição do impres
 
 ----
 
-[![Alternate Text](/trabalhos-radio/01-yupii-natal-spot-radio-2005.mp4)
+<video width="320" height="240" controls>
+  <source src="/trabalhos-radio/01-yupii-natal-spot-radio-2005.mp4" type="video/mp4">
+</video>
