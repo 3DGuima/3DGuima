@@ -21,3 +21,8 @@ Aqui, você poderá ver meu currículo e portfolio e mais alguns estudos, trabal
 
 ----
 
+<h1 align="center"><ins>Capacitação</ins></h1>
+
+----
+
+
