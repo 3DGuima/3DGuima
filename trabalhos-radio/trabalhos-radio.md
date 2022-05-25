@@ -7,8 +7,8 @@
 | -------------- | ------------------ | ---------------------- |
 | **Trabalhos com Rádio** | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
 
-----
 
+----
 
 <div align="center">
 
