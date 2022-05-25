@@ -9,11 +9,15 @@
 
 ----
 
+https://user-images.githubusercontent.com/42844146/170155098-d42863a2-99e2-49f6-ae19-8ade1ad3ee98.mp4
+
 <div>
-<video width="320" height="240" controls>
-  <source src="/trabalhos-radio/01-yupii-natal-spot-radio-2005.mp4" type="video/mp4">
+<video width="500" controls>
+  <source src="trabalhos-radio/01-yupii-natal-spot-radio-2005.mp4">
 </video>
 </div>
+
+<video src="trabalhos-radio/01-yupii-natal-spot-radio-2005.mp4" width="300 controls></video>
 
 
 **Loja de Brinquedos Odoteka - Campanha 2006** | **Yupii Brinquedos - Natal 2005**
