@@ -15,7 +15,7 @@
 
 ----
 
- ********** | ****👇 Clique nos títulos para ver os links 🎯**** | ***********
+ ********** | ****👇 Clique nos títulos para ver os links 🎯**** | **********
 |:-----:|:-----:|:-----:|
 ![](/trabalhos-video/00b-virginia.jpg)  | ![](/trabalhos-video/00a-ruela.jpg) | ![](/trabalhos-video/001-portfolio-video-thumbnail-promocao-novembro-2016-salao-cabeleireiro-janes-luz-cabelos-escova-hidratacao-youtube.jpg) 
 [**Palestra: A Importância da Família<br>na Evangelização Infantil<br>Setembro - 2018**](https://sites.google.com/view/cecvv-maria-virginia-24-09-18/) | [**Palestra: A Esperança e a Fé<br>Setembro - 2018**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/) | [**Janes Luz Cabelos<br>Novembro - 2016**](https://youtu.be/Z8fQEzYzfec)
