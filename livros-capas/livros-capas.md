@@ -1,6 +1,6 @@
 [<img align="right"  width="60" height="60" src="https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png">](https://github.com/3DGuima)
 # <ins>Portfolio - Livros e Capas</ins>
-## LIVROS QUE DIAGRAMEI E/OU CRIEI A CAPA
+<h2 style="text-align:center">LIVROS QUE DIAGRAMEI E/OU CRIEI A CAPA</h2>
 
 ----
 
