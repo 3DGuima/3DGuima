@@ -4,9 +4,9 @@
 
 ----
 
-| [**Livros e Capas**](/livros-capas/livros-capas.md) | **Revistas e Jornais** | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) |
-| -------------- | ------------------ | ---------------------- |
-| [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | [**Livros e Capas**](/livros-capas/livros-capas.md) | **Revistas e Jornais** | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; |
 
 ----
 
