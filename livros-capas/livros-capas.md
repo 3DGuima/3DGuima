@@ -1,5 +1,10 @@
-[<img align="right"  width="60" height="60" src="https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png">](https://github.com/3DGuima)
-# <ins>Portfolio - Livros e Capas</ins>
+<!--
+![<img align="center"  width="60" height="60" src="https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png">](https://github.com/3DGuima)
+-->
+
+[![3DGuima](https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png)](https://github.com/3DGuima)
+
+<h1 align="center">Portfolio - Livros e Capas</h1>
 
 <h2 align="center">LIVROS QUE DIAGRAMEI E/OU CRIEI A CAPA</h2>
 
