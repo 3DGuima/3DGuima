@@ -2,13 +2,11 @@
 
 # <ins>Portfolio - Trabalhos com Vídeo</ins>
 
-<div style="margin-left: auto; margin-right: auto; width: 70%">
 
-| [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) |
-| :--------------: | :------------------: | :----------------------: |
-| [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | **Trabalhos com Vídeo** | **Projetos Variados** |
+| &emsp;&emsp;&emsp;&emsp;&emsp; | [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md)  | &emsp;&emsp;&emsp;&emsp;&emsp; |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
+| &emsp;&emsp;&emsp;&emsp;&emsp;| [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | **Trabalhos com Vídeo** | **Projetos Variados** | &emsp;&emsp;&emsp;&emsp;&emsp; |
 
-</div>
 
 ----
 
