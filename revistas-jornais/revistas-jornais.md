@@ -1,5 +1,10 @@
-[<img align="right"  width="60" height="60" src="https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png">](https://github.com/3DGuima)
-# <ins>Portfolio - Revistas e Jornais</ins>
+<p align="center">
+<a href="https://github.com/3DGuima">
+  <img src="https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png" alt="3DGuima" style="width:70px;height:70px;">
+</a>
+</p>
+
+<h1 align="center">Portfolio - Revistas e Jornais</h1>
 
 <h2 align="center">REVISTAS E JORNAIS QUE DIAGRAMEI E/OU CRIEI O ANÚNCIO E/OU FIZ A CAPA</h2>
 
