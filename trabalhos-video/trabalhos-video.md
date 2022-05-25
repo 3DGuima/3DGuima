@@ -2,7 +2,7 @@
 
 # <ins>Portfolio - Trabalhos com Vídeo</ins>
 
-<h2 style="text-align:center">VIDEOS QUE CRIEI / DIRIGI / PRODUZI PARA WEB</h2>
+<center><h2>VIDEOS QUE CRIEI / DIRIGI / PRODUZI PARA WEB</h2></center>
 
 ----
 
