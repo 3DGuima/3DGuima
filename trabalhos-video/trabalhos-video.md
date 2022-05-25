@@ -3,8 +3,6 @@
 
 <h2 align="center">VIDEOS QUE CRIEI / DIRIGI / PRODUZI PARA WEB</h2>
 
-<h2 style="text-align:center">CRIEI E COORDENEI A VEICULAÇÃO DE CADA SPOT<br>PARA AS CAMPANHAS DE RÁDIO ENCOMENDADAS PELA EMPRESA</h2>
-
 ----
 
 | [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md)  | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | **Trabalhos com Vídeo** | **Projetos Variados** |
