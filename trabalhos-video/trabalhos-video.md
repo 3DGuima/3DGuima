@@ -15,10 +15,10 @@
 
 ----
 
- _  | _ 
-:------------------------------------:|:------------------------------------:
-![](/trabalhos-video/00b-virginia.jpg)  | ![https://sites.google.com/view/cecvv-jose-carmo-21-09-18/](/trabalhos-video/00a-ruela.jpg) |
-**Palestra: A Importância da Família<br>na Evangelização Infantil<br>Setembro - 2018** | **Palestra: A Esperança e a Fé Setembro - 2018**
+ &emsp; | &emsp; 
+:------------------------------------:|:------------------------------------:|
+![](/trabalhos-video/00b-virginia.jpg)  | ![](/trabalhos-video/00a-ruela.jpg) |
+[**Palestra: A Importância da Família<br>na Evangelização Infantil<br>Setembro - 2018**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/) | [**Palestra: A Esperança e a Fé Setembro - 2018**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/)
 
 <div>
 <table style="text-align:center">
