@@ -3,9 +3,10 @@
 
 <h2 style="text-align:center">CRIEI E COORDENEI A VEICULAÇÃO DE CADA SPOT<br>PARA AS CAMPANHAS DE RÁDIO ENCOMENDADAS PELA EMPRESA</h2>
 
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; |
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | **Trabalhos com Rádio** | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; |
+----
+
+| [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | **Trabalhos com Rádio** | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
+| :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
 
 ----
 
