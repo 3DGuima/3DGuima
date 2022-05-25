@@ -15,12 +15,10 @@
 
 ----
 
-**Palestra: A Importância da Família<br>na Evangelização Infantil<br>Setembro - 2018** | **Palestra: A Esperança e a Fé Setembro - 2018**
+ _  | _ 
 :------------------------------------:|:------------------------------------:
-![](https://sites.google.com/view/cecvv-maria-virginia-24-09-18/)  | ![https://sites.google.com/view/cecvv-jose-carmo-21-09-18/](/trabalhos-video/00a-ruela.jpg) |
-Campanha sazonal em 2006. | Campanha de Natal e de "5 anos" em 2005.
-Criei, diagramei e gerenciei o processo de impressão e distribuição do impresso promocional da campanha da loja. | Criei, diagramei e gerenciei o processo de impressão e distribuição do impresso promocional da campanha da loja.
-
+![](/trabalhos-video/00b-virginia.jpg)  | ![https://sites.google.com/view/cecvv-jose-carmo-21-09-18/](/trabalhos-video/00a-ruela.jpg) |
+**Palestra: A Importância da Família<br>na Evangelização Infantil<br>Setembro - 2018** | **Palestra: A Esperança e a Fé Setembro - 2018**
 
 <div>
 <table style="text-align:center">
