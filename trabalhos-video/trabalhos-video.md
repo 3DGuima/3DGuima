@@ -15,13 +15,18 @@
 
 ----
 
- &emsp; | &emsp; 
-:------------------------------------:|:------------------------------------:|
-![](/trabalhos-video/00b-virginia.jpg)  | ![](/trabalhos-video/00a-ruela.jpg) |
-[**Palestra: A Importância da Família<br>na Evangelização Infantil<br>Setembro - 2018**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/) | [**Palestra: A Esperança e a Fé Setembro - 2018**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/)
+ ***** | ****Clique nos títulos para ver os links**** | ***** 
+:-----:|:-----:|:-----:|
+![](/trabalhos-video/00b-virginia.jpg)  | ![](/trabalhos-video/00a-ruela.jpg) | ![](/trabalhos-video/001-portfolio-video-thumbnail-promocao-novembro-2016-salao-cabeleireiro-janes-luz-cabelos-escova-hidratacao-youtube.jpg) 
+[**Palestra: A Importância da Família<br>na Evangelização Infantil<br>Setembro - 2018**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/) | [**Palestra: A Esperança e a Fé<br>Setembro - 2018**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/) | [**Janes Luz Cabelos<br>Novembro - 2016**](https://youtu.be/Z8fQEzYzfec)
+![](/trabalhos-video/002-portfolio-video-thumbnail-canal-youtube-janes-luz-cabelos-facebook-ads-novembro-2016-lins.jpg)  | ![](/trabalhos-video/003-portfolio-video-thumb-show-banda-tributo-cazuza-acustico-biroska-rock-bar-acontece-lins-regiao-canal-youtube-outubro-2016.jpg) | ![](/trabalhos-video/004-portfolio-video-thumbnail-canal-youtube-janes-luz-cabelos-facebook-ads-agosto-2016-lins.jpg) 
+[**Janes Luz Cabelos<br>Novembro - 2016**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/) | [**Biroska Rock Bar<br>Outubro - 2016**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/) | [**Janes Luz Cabelos<br>Agosto - 2016****](https://youtu.be/Z8fQEzYzfec)
+![](/trabalhos-video/002-portfolio-video-thumbnail-canal-youtube-janes-luz-cabelos-facebook-ads-novembro-2016-lins.jpg)  | ![](/trabalhos-video/003-portfolio-video-thumb-show-banda-tributo-cazuza-acustico-biroska-rock-bar-acontece-lins-regiao-canal-youtube-outubro-2016.jpg) | ![](/trabalhos-video/004-portfolio-video-thumbnail-canal-youtube-janes-luz-cabelos-facebook-ads-agosto-2016-lins.jpg) 
+[**Janes Luz Cabelos<br>Novembro - 2016**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/) | [**Biroska Rock Bar<br>Outubro - 2016**](https://sites.google.com/view/cecvv-jose-carmo-21-09-18/) | [**Janes Luz Cabelos<br>Agosto - 2016****](https://youtu.be/Z8fQEzYzfec)
 
-<div>
-<table style="text-align:center">
+
+<div >
+<table>
     <tr>
     <th>Palestra: A Importância da Família na Evangelização Infantil Setembro - 2018</th>
     <th>Palestra: A Esperança e a Fé Setembro - 2018</th>
