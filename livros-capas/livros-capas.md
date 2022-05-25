@@ -1,8 +1,21 @@
 <!--
 ![<img align="center"  width="60" height="60" src="https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png">](https://github.com/3DGuima)
 -->
-
 [![3DGuima](https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png)](https://github.com/3DGuima)
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+<img class="center" src="[https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png](https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png)" alt="3DGuima" class="center"></img>
+
+<a href="https://github.com/3DGuima">
+  <img src="https://github.com/3DGuima/3DGuima/blob/dc8573070b20afbede441ea49ea88372232a8089/main-images/eu-icon-256x256-2020.png" alt="3DGuima" style="width:50px;height:50px;">
+</a>
+
 
 <h1 align="center">Portfolio - Livros e Capas</h1>
 
