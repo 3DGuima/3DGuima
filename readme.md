@@ -17,7 +17,7 @@ E também, mais alguns estudos, trabalhos e informações bacanas sobre mim.<br>
 
 <h1 align="center"><ins>Capacitação</ins></h1>
 
-<h3 align="center"><a href="https://3dguima.github.io/capacitacao.html" target="_blank" >FORMAÇÃO ACADÊMICA E TÉCNICA CURSOS, WORKSHOPS E OFICINAS</h3>
+<h3 align="center"><a href="https://3dguima.github.io/capacitacao.html" target="_blank">FORMAÇÃO ACADÊMICA E TÉCNICA CURSOS, WORKSHOPS E OFICINAS</h3>
 
 ----
 
