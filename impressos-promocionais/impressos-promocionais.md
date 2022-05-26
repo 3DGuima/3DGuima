@@ -9,9 +9,9 @@
 |[**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | **Impressos Promocionais** | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 
-<h2 align="center">IMPRESSOS PROMOCIONAIS EM QUE TRATEI E/OU FIZ AS FOTOS E/OU ACOMPANHEI O PROCESSO DE IMPRESSÃO/DISTRIBUIÇÃO</h2>
-
 ----
+
+<h2 align="center">IMPRESSOS PROMOCIONAIS EM QUE TRATEI E/OU FIZ AS FOTOS E/OU ACOMPANHEI O PROCESSO DE IMPRESSÃO/DISTRIBUIÇÃO</h2>
 
 **Loja de Brinquedos Odoteka - Campanha 2006** | **Yupii Brinquedos - Natal 2005**
 :------------------------------------:|:------------------------------------:
