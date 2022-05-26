@@ -13,8 +13,6 @@
 
 <h2 align="center">REVISTAS E JORNAIS QUE DIAGRAMEI E/OU CRIEI O ANÚNCIO E/OU FIZ A CAPA</h2>
 
-----
-
 **Innovations Implant Journal** | **Jornal Você Aqui - Edição nº08 - 2010**
 :---------------------------:|:------------------------------:
 ![](/revistas-jornais/003-revista-cientifica-odontologia-innovations-implant-journal-volume-6-numero-edicao-1-2011.jpg)  | ![](/revistas-jornais/002-jornal-voce-aqui-numero-edicao-8-2010.jpg) 

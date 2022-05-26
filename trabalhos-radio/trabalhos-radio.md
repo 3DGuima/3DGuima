@@ -13,8 +13,6 @@
 
 <h2 align="center">CRIEI E COORDENEI A VEICULAÇÃO DE CADA SPOT<br>PARA AS CAMPANHAS DE RÁDIO ENCOMENDADAS PELA EMPRESA</h2>
 
-----
-
 <div align="center">
 
 

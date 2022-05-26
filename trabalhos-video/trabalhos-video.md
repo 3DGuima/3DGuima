@@ -13,8 +13,6 @@
 
 <h2 align="center">VIDEOS QUE CRIEI / DIRIGI / PRODUZI PARA WEB</h2>
 
-----
-
  ********** | ****👇 Clique nos títulos para ver os links 🎯**** | **********
 |:-----:|:-----:|:-----:|
 ![](/trabalhos-video/00b-virginia.jpg)  | ![](/trabalhos-video/00a-ruela.jpg) | ![](/trabalhos-video/001-portfolio-video-thumbnail-promocao-novembro-2016-salao-cabeleireiro-janes-luz-cabelos-escova-hidratacao-youtube.jpg) 

@@ -14,8 +14,6 @@
 
 <h2 align="center">LIVROS QUE DIAGRAMEI E/OU CRIEI A CAPA</h2>
 
-----
-
 **A Opulência Relativisada** | **Cultura Múltiplas Leituras**
 :---------------------------:|:------------------------------:
 ![](/livros-capas/001-livro-a-opulencia-relativisada-isbn-9788574603735-edusc-2010.jpg)  |  ![](/livros-capas/002-cultura-multiplas-leituras-isbn-9788523206673-edusc-2011.jpg)  |
