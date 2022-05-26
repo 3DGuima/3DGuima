@@ -7,10 +7,8 @@
 Aqui, você poderá ver meu currículo e portfolio.<br>
 E também, mais alguns estudos, trabalhos e informações bacanas sobre mim.<br>Seja bem vindo!</h2>
 
-----
 
 <h1 align="center"><ins>Portfolio</ins></h1>
-
 
 | [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
