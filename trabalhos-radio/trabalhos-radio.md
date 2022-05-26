@@ -6,12 +6,12 @@
 
 <h1 align="center">Portfolio - Trabalhos com Rádio</h1>
 
-<h2 align="center">CRIEI E COORDENEI A VEICULAÇÃO DE CADA SPOT<br>PARA AS CAMPANHAS DE RÁDIO ENCOMENDADAS PELA EMPRESA</h2>
+| [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | **Trabalhos com Rádio** | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
+| :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
 
 ----
 
-| [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | **Trabalhos com Rádio** | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
-| :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
+<h2 align="center">CRIEI E COORDENEI A VEICULAÇÃO DE CADA SPOT<br>PARA AS CAMPANHAS DE RÁDIO ENCOMENDADAS PELA EMPRESA</h2>
 
 ----
 

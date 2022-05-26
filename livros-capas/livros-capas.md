@@ -7,12 +7,12 @@
 
 <h1 align="center">Portfolio - Livros e Capas</h1>
 
-<h2 align="center">LIVROS QUE DIAGRAMEI E/OU CRIEI A CAPA</h2>
+| **Livros e Capas** | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 
 ----
 
-| **Livros e Capas** | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+<h2 align="center">LIVROS QUE DIAGRAMEI E/OU CRIEI A CAPA</h2>
 
 ----
 

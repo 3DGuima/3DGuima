@@ -6,12 +6,12 @@
 
 <h1 align="center">Portfolio - Trabalhos com Vídeo</h1>
 
-<h2 align="center">VIDEOS QUE CRIEI / DIRIGI / PRODUZI PARA WEB</h2>
+| [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md)  | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | **Trabalhos com Vídeo** | **Projetos Variados** |
+| :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
 
 ----
 
-| [**Livros e Capas**](/livros-capas/livros-capas.md) | [**Revistas e Jornais**](/revistas-jornais/revistas-jornais.md) | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md)  | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | **Trabalhos com Vídeo** | **Projetos Variados** |
-| :-----: | :-----: | :-----: | :-----: | :-----: |:-----: |
+<h2 align="center">VIDEOS QUE CRIEI / DIRIGI / PRODUZI PARA WEB</h2>
 
 ----
 

@@ -6,12 +6,12 @@
 
 <h1 align="center">Portfolio - Revistas e Jornais</h1>
 
-<h2 align="center">REVISTAS E JORNAIS QUE DIAGRAMEI E/OU CRIEI O ANÚNCIO E/OU FIZ A CAPA</h2>
+| [**Livros e Capas**](/livros-capas/livros-capas.md) | **Revistas e Jornais** | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 
 ----
 
-| [**Livros e Capas**](/livros-capas/livros-capas.md) | **Revistas e Jornais** | [**Impressos Promocionais**](/impressos-promocionais/impressos-promocionais.md) | [**Trabalhos com Rádio**](/trabalhos-radio/trabalhos-radio.md) | [**Trabalhos com Vídeo**](/trabalhos-video/trabalhos-video.md) | **Projetos Variados** |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+<h2 align="center">REVISTAS E JORNAIS QUE DIAGRAMEI E/OU CRIEI O ANÚNCIO E/OU FIZ A CAPA</h2>
 
 ----
 
