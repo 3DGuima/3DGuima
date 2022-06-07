@@ -29,3 +29,6 @@ E também, mais alguns estudos, trabalhos e informações bacanas sobre mim.<br>
 
 ---
 
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>-->
+
+
